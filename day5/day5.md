@@ -8,7 +8,7 @@ class: invert
 
 日文五十音大進擊 Day 5
 
-[Colab Demo](...)
+[Colab Demo](https://colab.research.google.com/drive/1ABh2sU7lOn2Qm1X_1GkYSvvcT7Qnf420)
 
 ---
 
